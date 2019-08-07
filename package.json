@@ -1,0 +1,21 @@
+{
+  "name": "vvtr",
+  "version": "1.0.0",
+  "description": "VVTR Control over IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "visionmill"
+  },
+  "keywords": [
+    "VVTR",
+    "Virtual",
+    "VTR",
+    "Gallery"
+  ],
+  "author": "Jonathan Bond",
+  "license": "MIT"
+}
